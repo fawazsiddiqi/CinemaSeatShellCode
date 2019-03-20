@@ -1,0 +1,9 @@
+
+
+
+
+        [Showtimes],         [Movie Title],         [Vacancy]
+_____________________________________________________________________
+         1300-2Oct,           UnderCovers,            SOLD OUT
+         1600-2Oct,           RoboCon,                Ticket Available
+         1700-2Oct,           Predators,              SOLD OUT
